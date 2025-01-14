@@ -1,0 +1,9 @@
+int f(int a, int b) {
+//a = b;
+}
+int main(){
+int a = f(a) + 1 * 2;
+int b = 1;
+int c = 2, d = 2;
+f(a, b, c, d);
+}
